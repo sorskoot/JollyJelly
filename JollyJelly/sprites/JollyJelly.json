@@ -1,0 +1,28 @@
+{
+    "images": [ "sprites/JollyJelly.png" ],
+    "frames": [
+
+        [ 68, 2, 48, 60 ],
+        [ 2, 122, 48, 52 ],
+        [ 2, 2, 64, 52 ],
+        [ 2, 56, 60, 64 ],
+        [ 64, 64, 60, 64 ]
+    ],
+    "animations": {
+
+        "JollyJelly_0": [ 0 ],
+        "JollyJelly_1": [ 1 ],
+        "JollyJelly_2": [ 2 ],
+        "JollyJelly_3": [ 3 ],
+        "JollyJelly_4": [ 4 ]
+    },
+    "texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:463180078c8694e280acfea688ebf0ef:77cf089fa7fafe9b6535b6df01fcb959:795c1fd73502dba5e21b300dcd443a17$",
+        "Created with TexturePacker (http://www.texturepacker.com) for EaselJS"
+    ],
+    "sounds": [
+        { "id": "die", "src": "/audio/die.wav" },
+        { "id": "forward", "src": "/audio/forward.wav" },
+        { "id": "score", "src": "/audio/score.wav" }
+    ]
+}
